@@ -15,6 +15,8 @@ To execute this project is necessary to install the gcc4mbed compressed archive 
 ``` c++
 // // /* Test which brings default HelloWorld project from mbed online compiler
 //    to be built under GCC.
+// Author: Leonan da Silva Saraiva 
+// Email: leonandasilvasaraiva@gmail.com
 // */
 #include "mbed.h"
 #include "LoRAWAN.h"
